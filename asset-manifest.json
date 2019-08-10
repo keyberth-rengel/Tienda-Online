@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Tienda-Online/static/css/main.9086b590.chunk.css",
-    "main.js": "/Tienda-Online/static/js/main.96b5bfdd.chunk.js",
-    "main.js.map": "/Tienda-Online/static/js/main.96b5bfdd.chunk.js.map",
+    "main.js": "/Tienda-Online/static/js/main.7096794d.chunk.js",
+    "main.js.map": "/Tienda-Online/static/js/main.7096794d.chunk.js.map",
     "runtime~main.js": "/Tienda-Online/static/js/runtime~main.06c0877e.js",
     "runtime~main.js.map": "/Tienda-Online/static/js/runtime~main.06c0877e.js.map",
     "static/js/2.4fb61a4e.chunk.js": "/Tienda-Online/static/js/2.4fb61a4e.chunk.js",
     "static/js/2.4fb61a4e.chunk.js.map": "/Tienda-Online/static/js/2.4fb61a4e.chunk.js.map",
     "index.html": "/Tienda-Online/index.html",
-    "precache-manifest.5c393b4b11728b3b626db49622ee1471.js": "/Tienda-Online/precache-manifest.5c393b4b11728b3b626db49622ee1471.js",
+    "precache-manifest.92c9fb5f4124a425e2efdbc9c7fd847a.js": "/Tienda-Online/precache-manifest.92c9fb5f4124a425e2efdbc9c7fd847a.js",
     "service-worker.js": "/Tienda-Online/service-worker.js",
     "static/css/main.9086b590.chunk.css.map": "/Tienda-Online/static/css/main.9086b590.chunk.css.map"
   }
